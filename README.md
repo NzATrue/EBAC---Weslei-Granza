@@ -59,21 +59,6 @@ Este repositório contém soluções de exercícios, notebooks Jupyter e projeto
 
 ---
 
-## 🎯 Projetos
-
-<details open>
-  <summary>
-    <h3>Projetos Desenvolvidos</h3>
-  </summary>
-
-- [ ] Projeto #01 - Credit Score
-- [ ] Projeto #02 - Previsão de Renda
-- [ ] Projeto #03 - Agrupamento Hierárquico
-
-</details>
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
@@ -96,55 +81,9 @@ EBAC---Weslei-Granza/
 │   ├── exercicio_1.ipynb
 │   ├── exercicio_2.ipynb
 │   └── ...
-├── Projetos/
-│   ├── Projeto_01_Credit_Score/
-│   ├── Projeto_02_Previsão_Renda/
-│   └── ...
 ├── README.md
 └── .gitignore
 ```
-
----
-
-## 💡 Como Usar este Repositório
-
-1. **Clonar o repositório:**
-```bash
-git clone https://github.com/NzATrue/EBAC---Weslei-Granza.git
-cd EBAC---Weslei-Granza
-```
-
-2. **Instalar dependências:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Abrir notebooks Jupyter:**
-```bash
-jupyter notebook
-```
-
-4. **Executar aplicações Streamlit:**
-```bash
-streamlit run app.py
-```
-
----
-
-## 📝 Notas Importantes
-
-- Todos os exercícios são desenvolvidos em **Python 3.9+**
-- Os notebooks usam **Jupyter Notebook**
-- As aplicações web usam **Streamlit**
-- Os dados estão em pastas específicas de cada módulo
-
----
-
-## 📧 Contato
-
-- **Nome:** Weslei Granza
-- **GitHub:** [@NzATrue](https://github.com/NzATrue)
-- **LinkedIn:** [Seu LinkedIn](#)
 
 ---
 
