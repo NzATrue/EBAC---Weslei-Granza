@@ -1,0 +1,25 @@
+Modulo 31 - Streamlit V - Exercicio 2
+Autor: Weslei Granza
+Data: 28 de maio de 2026
+
+Repositorio GitHub:
+https://github.com/NzATrue/EBAC---Weslei-Granza/tree/main/Modulo_31_Streamlit_V/Exercicio_2
+
+Link da aplicacao no Render:
+COLE_AQUI_O_LINK_GERADO_PELO_RENDER
+
+Configuracao para criar o Web Service no Render:
+
+1. Acesse https://render.com/
+2. Clique em New + e depois em Web Service.
+3. Conecte o GitHub e escolha o repositorio:
+   NzATrue/EBAC---Weslei-Granza
+4. Em Root Directory, coloque:
+   Modulo_31_Streamlit_V/Exercicio_2
+5. Em Build Command, coloque:
+   pip install -r requirements.txt
+6. Em Start Command, coloque:
+   streamlit run mod31_ex2_projeto_AgrupamentoHierarquico.py --server.port $PORT --server.address 0.0.0.0
+7. Escolha o plano Free e clique em Deploy Web Service.
+
+Depois que o Render finalizar, copie o link gerado e envie na plataforma da EBAC junto com o link do repositorio.
